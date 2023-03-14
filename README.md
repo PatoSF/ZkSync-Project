@@ -4,6 +4,9 @@ This project is a blockchain-based platform that consists of two smart contracts
 
 The goal of the game is to guess the secret number between 100 and 200 by paying 0.01 ETH to play. If you guess the correct number, you'll win 80% of the contract's funds and 100 IQ tokens. If you guess incorrectly, your funds will be added to the contract's funds.
 
+Wait a couple of seconds so the website can fully load.
+Use the keys: W, A, S, D to navigate and LEFT, RIGHT, UP, DOWN errows to change the view.
+
 ### Usage
 Install all dependencies using `npm i`.
 Run the frontend project using `npm start` or `yarn start`. Please note that the website may have trouble loading on certain browsers, so we recommend using Brave.
