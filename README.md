@@ -1,7 +1,7 @@
 
 ### Welcome to IQ Token Guessing Game!
 https://zksyncguessiq.on.fleek.co/
-![Alt text](Screenshot (327).png?raw=true "Title")
+![Alt text](relative%20path/to/Screenshot (327).png?raw=true "Title")
 This project is a blockchain-based platform that consists of two smart contracts - an ERC20 contract and a game contract. The ERC20 contract was created using OpenZeppelin libraries and mints a total supply of 1 billion IQ tokens. The game contract, on the other hand, interacts with the ERC20 contract and allows users to play a guessing game.
 
 The goal of the game is to guess the secret number between 100 and 200 by paying 0.01 ETH to play. If you guess the correct number, you'll win 80% of the contract's funds and 100 IQ tokens. If you guess incorrectly, your funds will be added to the contract's funds.
